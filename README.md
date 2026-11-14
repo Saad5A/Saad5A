@@ -6,7 +6,7 @@ Honours Computer Science (**Data Engineering**) student at **Sheridan College** 
 - 🏆 **Hackathon Podiums:** 3rd Place @ **Sheridan Datathon 2026** (*Pancakees*) · 2nd Place @ **Case Closed 2026** (*The Vanishing Subscribers*)
 - 🏎️ **Outside of code:** Vice President at **Sheridan F1 Society**, breaking down race telemetry and tire-degradation strategy
 - 💼 **Open to:** Summer & Fall 2027 Co-op opportunities in Data Engineering, Backend, and Applied AI
-- 🌐 **Portfolio & Contact:** [saad.dev](https://saad.dev) · [LinkedIn](https://www.linkedin.com/in/saadsw) · [Devpost](https://devpost.com) · `sallahwala1@gmail.com`
+- 🌐 **Portfolio & Contact:** [saad.dev](https://saadallahwala.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/saadsw) · [Devpost](https://devpost.com) · `sallahwala1@gmail.com`
 
 ---
 
